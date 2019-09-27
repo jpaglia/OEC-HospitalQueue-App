@@ -7,5 +7,5 @@ To run this app, ensure you have node.js installed, as well as the package depen
 
 Then simply run the Script file in the main directory
 
-Client(<TWILLIO_API_TOKEN>, <TWILLIO_PASSWORD>)
+Client(<TWILIO_API_TOKEN>, <TWILIO_PASSWORD>)
 
